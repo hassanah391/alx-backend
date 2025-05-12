@@ -1,0 +1,5 @@
+# Ignore temp files of emacs editor
+*~
+
+# ignore Popular_Baby_Names.csv
+Popular_Baby_Names.csv
