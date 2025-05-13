@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Module 1-simple_pagination
-This module implements a Server class that paginates a database of popular baby names.
-It demonstrates simple pagination techniques using the index_range helper function
+This module implements a Server class that paginates a database
+of popular baby names.
+It demonstrates simple pagination techniques using
+the index_range helper function
 from the previous module to retrieve specific pages of data.
 """
 
