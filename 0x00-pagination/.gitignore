@@ -1,5 +1,8 @@
 # Ignore temp files of emacs editor
 *~
 
-# ignore Popular_Baby_Names.csv
+# Ignore Popular_Baby_Names.csv
 Popular_Baby_Names.csv
+
+# Ignores compiled files
+__pycache__/
