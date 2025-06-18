@@ -1,0 +1,5 @@
+# Ignores node modules of node.js
+node_modules
+
+# Ignores temp files of emacs editor
+*~
